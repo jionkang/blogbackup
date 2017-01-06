@@ -1,0 +1,26 @@
+{
+    "avatar": "http://image-1253235611.costj.myqcloud.com/lan_avatar.jpg",
+    "name": "谢建涛",
+	"tag": "android客户端/漫画/游戏/二次元世界",
+    "desc": "能坚持你的梦想，并规划，并实现",
+    "skills": {
+        "android": 8,
+		"java": 8,
+		
+		"invisible-split-line-1": -1,
+		"js/jquery": 2,
+		"SpringMVC/mybatis": 3
+    },
+    "projects": [{
+		"name": "见git",
+		"image": "https://d13yacurqjgara.cloudfront.net/users/138819/screenshots/2578899/dribbble_800x600_01_1x.png",
+		"tags": ["android", "github"],
+		"description": "详情见git",
+		"link_text": "Github地址",
+		"link": "https://github.com/jionkang"
+	}],
+	"reward": [
+	    "http://image-1253235611.costj.myqcloud.com/wxpay_origin_process.jpg",
+		"http://image-1253235611.costj.myqcloud.com/alipay_origin_process.jpg"
+	]
+}

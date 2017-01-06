@@ -1,0 +1,19 @@
+[{
+    "image": "http://image-1253235611.costj.myqcloud.com/banner4.jpg",
+    "align": "center",
+    "title": "作者信息",
+    "subtitle": "Almighty omniscient-友哈巴赫|漫画粉",
+	"link": "/about"
+}, {
+    "image": "http://image-1253235611.costj.myqcloud.com/banner2.jpg",
+    "align": "left",
+    "title": "谷歌",
+    "subtitle": "不要让GFW阻碍了你的视野",
+	"link": "https://www.google.com"
+}, {
+    "image": "http://image-1253235611.costj.myqcloud.com/banner3.jpg",
+    "align": "right",
+    "title": "百度",
+    "subtitle": "GFW已经洗脑了你",
+	"link": "https://www.baidu.com/"
+}]
